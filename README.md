@@ -27,7 +27,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<codesburners>&show_icons=true&theme=tokyonight" alt="<codesburners>'s GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight" alt="Top languages" height="165" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=codesburners&show_icons=true&theme=tokyonight&hide_border=true" alt="codesburners's GitHub stats" height="165" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesburners&layout=compact&theme=tokyonight&hide_border=true" alt="codesburners's top languages" height="165" />
+    </td>
+  </tr>
+</table>
