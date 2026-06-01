@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name> 👋
+# Hi, I'm Gowtham 👋
 
 🎓 4th Year Integrated M.Tech Student  
 💻 Java | Spring Boot | PostgreSQL  
@@ -11,5 +11,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## GitHub Stats
-![<username>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight)
+!codesburners's GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight)
