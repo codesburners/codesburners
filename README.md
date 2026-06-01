@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm &lt;Your Name&gt; 👋</h1>
+<h1 align="center">Hi, I'm &lt;Gowtham G&gt; 👋</h1>
 
 <p align="center">
   🎓 4th Year Integrated M.Tech Student • 💻 Backend Enthusiast • 🔐 Security Learner
@@ -28,6 +28,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight" alt="<username>'s GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codesburners&show_icons=true&theme=tokyonight" alt="<username>'s GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight" alt="Top languages" height="165" />
 </p>
