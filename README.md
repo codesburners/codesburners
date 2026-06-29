@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm &lt;Gowtham G&gt; 👋</h1>
+<h1 align="center">Hi, I'm Gowtham G; 👋</h1>
 
 <p align="center">
   🎓 4th Year Integrated M.Tech Student • 💻 Backend Enthusiast • 🔐 Security Learner
